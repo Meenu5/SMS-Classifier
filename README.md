@@ -3,11 +3,11 @@ SMS Spam Classifier Using XG Boost ( Python )
 
 Dependencies
 
-Numpy
-Pandas
-Sklearn
-Matplotlib
-Xgboost
+Numpy,
+Pandas,
+Sklearn,
+Matplotlib,
+Xgboost,
 NLTK
 
 Data
